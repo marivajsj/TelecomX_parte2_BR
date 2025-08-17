@@ -11,7 +11,7 @@ A organização dos arquivos é a seguinte:
 
 - **`TelecomX_parte2_BR_corrigido.ipynb`** → Notebook principal da análise, já revisado e corrigido.
 - **`dados_tratados.csv`** → Base de dados limpa e pré-processada utilizada para treinar e avaliar os modelos.
-- **`Durante a execução do notebook, gráficos importantes (como a matriz de confusão e a importância das variáveis) são salvos automaticamente na pasta visualizacoes/ em formato .png.
+- Durante a execução do notebook, gráficos importantes (como a matriz de confusão e a importância das variáveis) são salvos automaticamente na pasta visualizacoes/ em formato .png.
   - Matrizes de confusão.
   - Importância das variáveis (Permutation Importance).
 
