@@ -11,8 +11,7 @@ A organização dos arquivos é a seguinte:
 
 - **`TelecomX_parte2_BR_corrigido.ipynb`** → Notebook principal da análise, já revisado e corrigido.
 - **`dados_tratados.csv`** → Base de dados limpa e pré-processada utilizada para treinar e avaliar os modelos.
-- **`/visualizacoes`** (opcional) → Pasta sugerida para armazenar gráficos gerados, como:
-  - Distribuição de variáveis numéricas e categóricas.
+- **`Durante a execução do notebook, gráficos importantes (como a matriz de confusão e a importância das variáveis) são salvos automaticamente na pasta visualizacoes/ em formato .png.
   - Matrizes de confusão.
   - Importância das variáveis (Permutation Importance).
 
@@ -69,8 +68,8 @@ pip install pandas numpy matplotlib scikit-learn nbformat
 
 ### 2. Arquivos necessários
 Coloque os arquivos:
-- `dados_tratados.csv`
-- `TelecomX_parte2_BR_corrigido.ipynb`
+- `Dados\dados_tratados.csv`
+- `TelecomX_parte2_BR.ipynb`
 
 na mesma pasta do projeto.
 
